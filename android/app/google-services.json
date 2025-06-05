@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825528819089",
+    "project_id": "notessandeep-5c26e",
+    "storage_bucket": "notessandeep-5c26e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825528819089:android:7a37da09601f4c448a0e30",
+        "android_client_info": {
+          "package_name": "com.sandeep_notes.sandeep_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8tna_olEA7ygC8n88yUpEwZKU_Btzxq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
