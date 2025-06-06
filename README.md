@@ -31,14 +31,14 @@ This app follows Clean Architecture principles with three main layers:
 
 ### Prerequisites
 
-- Flutter SDK (latest stable version)
-- Firebase account
+- Flutter SDK (3.3.9)
+- Firebase account(used person account)
 
 ### Installation
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/yourusername/flutter_notes_app.git
+   git clone https://github.com/sandeeptale/notes_crud
    cd flutter_notes_app
    \`\`\`
 
